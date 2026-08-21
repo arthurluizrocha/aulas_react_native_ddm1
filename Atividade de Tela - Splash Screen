@@ -36,7 +36,7 @@ export default function App() {
       </View>
       <View>
           <Text style={{fontSize: 24, fontWeight: 'bold',zIndex: 1, color: '#D2B48C'}}>Inventário Rupestre</Text>
-          <Text style={{fontSize: 12, fontWeight: 'bold',zIndex: 1, color: '#D2B48C'}}>Preservando o passado na sua mão</Text>
+          <Text style={{fontSize: 12, fontWeight: 'bold',zIndex: 1, color: '#D2B48C'}}>Preservando o passado na palma da sua mão</Text>
           <Text style={{fontSize: 14, fontWeight: 'bold',zIndex: 1, color: '#D2B48C',position: 'absolute', top: 280, left: 60}}>v1.0 - Arthur Luiz</Text>
       </View>
       
